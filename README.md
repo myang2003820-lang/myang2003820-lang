@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yang Ma
 
-<!--
-**myang2003820-lang/myang2003820-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst interested in e-commerce, customer behavior, and business analytics.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python
+- Pandas
+- Data Visualization
+- Tableau / Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+- Instacart Customer Reorder and Basket Analysis
+
+## Currently Learning
+- Building end-to-end analytics portfolio projects
+- Customer behavior and basket analysis
+- Business-oriented data storytelling
+
+## Links
+- LinkedIn: [add your link here]
+- GitHub Projects: [add your project repo link here]
