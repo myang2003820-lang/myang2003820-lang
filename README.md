@@ -19,4 +19,4 @@ Aspiring Data Analyst interested in e-commerce, customer behavior, and business 
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/yang-ma-530334330/
-- GitHub Projects: https://github.com/myang2003820-lang/myang2003820-lang
+- GitHub Projects: https://github.com/myang2003820-lang
