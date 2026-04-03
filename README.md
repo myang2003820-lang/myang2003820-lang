@@ -10,7 +10,7 @@ Aspiring Data Analyst interested in e-commerce, customer behavior, and business 
 - Tableau / Power BI
 
 ## Featured Project
-- Instacart Customer Reorder and Basket Analysis
+- Instacart Customer Reorder and Basket Analysis： https://github.com/myang2003820-lang/Instacart-reorder-basket-analysis
 
 ## Currently Learning
 - Building end-to-end analytics portfolio projects
