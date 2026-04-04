@@ -12,6 +12,14 @@ Aspiring Data Analyst interested in e-commerce, customer behavior, and business 
 ## Featured Project
 - Instacart Customer Reorder and Basket Analysis： https://github.com/myang2003820-lang/Instacart-reorder-basket-analysis
 
+### Sephora 用户评价分析
+[View PDF Report](./Sephora用户评价分析.pdf)
+
+### Instacart 用户行为分析
+[View PDF Report](./Instacart 用户行为分析 - Myang - Medium.pdf)
+
+### Dashboard
+[View Dashboard PDF](./Dashboard.pdf)
 ## Currently Learning
 - Building end-to-end analytics portfolio projects
 - Customer behavior and basket analysis
