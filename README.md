@@ -10,8 +10,6 @@ Aspiring Data Analyst interested in e-commerce, customer behavior, and business 
 - Tableau / Power BI
 
 ## Featured Project
-- Instacart Customer Reorder and Basket Analysis： https://github.com/myang2003820-lang/Instacart-reorder-basket-analysis
-
 ### Sephora 用户评价分析
 [View PDF Report](./Sephora用户评价分析.pdf)
 ### Uber vs Lyft 定价机制比较：平台差异、出行场景与 Surge 行为分析
