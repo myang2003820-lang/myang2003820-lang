@@ -14,12 +14,13 @@ Aspiring Data Analyst interested in e-commerce, customer behavior, and business 
 
 ### Sephora 用户评价分析
 [View PDF Report](./Sephora用户评价分析.pdf)
+### Uber vs Lyft 定价机制比较：平台差异、出行场景与 Surge 行为分析
+[View PDF Report](./Uber&Lyft定价机制比较.pdf)
 ### Dashboard
 [View Dashboard PDF](./Dashboard.pdf)
 ### Instacart 用户行为分析
 [View PDF Report](./Instacart用户行为分析.pdf)
-### Uber vs Lyft 定价机制比较：平台差异、出行场景与 Surge 行为分析
-[View PDF Report](./Uber&Lyft定价机制比较.pdf)
+
 
 ## Currently Learning
 - Building end-to-end analytics portfolio projects
